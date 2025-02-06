@@ -9,7 +9,8 @@
 
 - **Microcontroller**: Microchip Pic16F628A.
 - **PLL IC**: Philips TSA5511 or TSA5512.
-- **Crystal Oscillator**: 3.2MHz or 4.0MHz.
+- **Crystal Oscillator Reference**: 3.2MHz or 4.0MHz.
+- **VCO**: Single transistor Colpitts FM Oscillator with Varicap Diode.
 - **Compiler**: MikroC Pro Pic 7.6.0 (demo).
 - **Programmer Hardware**: Pickit2 or Pickit3.
 - **OS**: Windows 7 with USB 2.0 Ports.
