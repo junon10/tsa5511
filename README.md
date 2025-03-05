@@ -53,3 +53,7 @@ Contributions are welcome! Please fork the repository and send a pull request.
 ## Changelog
 
 - **v1.0.0 (2024/06/16)**: Initial commit.
+
+## License
+
+MIT License
